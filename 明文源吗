@@ -178,6 +178,7 @@ function 获取有效配置快照(环境值 = {}) {
 }
 const 地区映射 = {
   'HK': ['🇭🇰 香港', 'HK', 'Hong Kong'],
+  'TW': ['🇹🇼 台湾', 'TW', 'Taiwan'],
   'US': ['🇺🇸 美国', 'US', 'United States'],
   'SG': ['🇸🇬 新加坡', 'SG', 'Singapore'],
   'JP': ['🇯🇵 日本', 'JP', 'Japan'],
