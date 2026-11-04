@@ -6012,7 +6012,7 @@ async function 检查系统状态() {
         regionNames: {
           'CF': '${解码64('8J+MkCDlrpjmlrnnm7Tov54=')}',
           'HK': '🇭🇰 香港',
-          'TW: '🇹🇼 台湾',
+          'TW': '🇹🇼 台湾',
           'US': '🇺🇸 美国',
           'SG': '🇸🇬 新加坡',
           'JP': '🇯🇵 日本',
